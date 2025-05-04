@@ -1,0 +1,31 @@
+
+.lead{
+    font-family: sans-serif;
+}
+.display-5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.CV{
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.button{
+    background-color: darksalmon;
+    text-decoration: none;
+    font-size: 2rem;
+    border-color: darksalmon;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    word-spacing: 5px;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+a{
+    color:crimson
+}
